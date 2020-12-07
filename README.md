@@ -1,5 +1,5 @@
 # PHP-OOP
-Create a javascript program using oop to create two class
+Create a PHP program using oop to create two class
 Class student 
 Class Teacher 
 
