@@ -16,11 +16,11 @@ subjects
 
 Output :
 
-when you get the method  name for the student  and giving him id must return a string
-when you get the method mobile for the student and giving him id must return number
+when you get the method  name for the student and must return a string [student name]
+when you get the method mobile for the student and  must return number [mobile number]
 
-when you get the method  Salary for the Teacher  and giving him id return number
-when you get the method Subjects for the Teacher and giving him id return array
+when you get the method  Salary for the Teacher must return a return number [Salary]
+when you get the method Subjects for the Teacher must return a return array [Subject]
 
 For student class 
 use dummy data 
